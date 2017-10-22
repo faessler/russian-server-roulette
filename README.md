@@ -1,7 +1,7 @@
 # Russian Server Roulette
-<aside class="warning">
+<div class="admonition warning">
 BEWARE: It can delete everything on your Server/Computer! Playing on own risk!
-</aside>
+</div>
 
 ## How does the Game work
 It works like the classic Russian Roulette but instead of pointing with a gun to your brain, you'll point with that gun to your server/computer.
@@ -9,9 +9,9 @@ It works like the classic Russian Roulette but instead of pointing with a gun to
 One in Six times it will execute the command ```rm -rf /``` and delete everything on your server/computer. When this happens you've lost and your server/computer is dead.
 
 ## How to Play
-<aside class="warning">
+<div class="admonition warning">
 Do not copy paste this command into your command prompt if you don't understand what it does. Executing this bash script is on your own risk!
-</aside>
+</div>
 
 ```shell
 curl https://raw.githubusercontent.com/faessler/russian-server-roulette/master/revolver.bash | bash
