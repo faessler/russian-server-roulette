@@ -1,13 +1,13 @@
 # Russian Server Roulette
 <section class="alert alert-danger">
 <strong>WARNING</strong><br>
-Beware: It can delete everything on your Server/Computer! Playing on own risk!
+Beware: It can delete everything on your Server/Computer! Playing at own risk!
 </section>
 
 ## How does the Game work
 It works like the classic Russian Roulette but instead of pointing with a gun to your brain, you'll point with that gun to your server/computer.
 
-One in Six times it will execute the command ```rm -rf /* --no-preserve-root``` as sudo and delete everything on your server/computer. When this happens you've lost and your server/computer is dead.
+One in Six times it will execute the command ```sudo rm -rf /* --no-preserve-root``` as sudo and delete everything on your server/computer. When this happens you've lost and your server/computer is dead.
 
 ## How to Play
 Sit down with your friends, take a bottle of vodka and each of you execute the bash script on their machine. The game is recommended for one to six players.
