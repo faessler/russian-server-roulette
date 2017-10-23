@@ -16,7 +16,7 @@ Do not copy paste this command into your command prompt if you don't understand 
 </section>
 
 ```shell
-curl https://raw.githubusercontent.com/faessler/russian-server-roulette/master/revolver.bash | bash
+curl -s https://raw.githubusercontent.com/faessler/russian-server-roulette/master/revolver.bash | bash
 ```
 
 ## Credits
