@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo [ $[ $RANDOM % 6] == 0 ] && echo "You're dead" || echo "Lucky Boy";
+[ $[ $RANDOM % 6] == 0 ] && sudo echo "You're dead" || sudo echo "Lucky Boy";
